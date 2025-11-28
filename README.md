@@ -119,4 +119,4 @@ Please make sure to update tests as appropriate.
 
 ## Authors and acknowledgment
 
-- [Saurav Hathi](https://github.com/sauravhathi)
+- [Taneesh]([https://github.com/sauravhathi](https://www.linkedin.com/in/taneesh-venkat-478710256/))
