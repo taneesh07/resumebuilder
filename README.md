@@ -8,10 +8,6 @@ A cutting-edge resume builder that helps job seekers create a professional,resum
 ![image](https://user-images.githubusercontent.com/61316762/218017511-fbbaa7da-6154-449f-9e46-8de45b0e6c29.png)
 
 
-## Change Log
-
-- Drag and drop sections to reorder them in the resume(Work Experience, Projects, Skills)
-
 ## Sections
 
 - [Personal Information](#personal-information)
