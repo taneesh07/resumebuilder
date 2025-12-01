@@ -1,0 +1,73 @@
+{
+  "resumes": [
+    {
+      "personalInfo": {
+        "fullName": "Taneesh Venkat",
+        "email": "taneeshvenkat@gmail.com",
+        "phone": "09704482799",
+        "location": "guntur",
+        "summary": "im taneesh"
+      },
+      "experience": [],
+      "education": [],
+      "skills": [
+        "gaming"
+      ],
+      "id": "0b3db673-b878-4641-ad92-59213be93458",
+      "createdAt": "2025-12-01T11:10:41.352Z",
+      "updatedAt": "2025-12-01T11:10:41.352Z"
+    },
+    {
+      "personalInfo": {
+        "fullName": "aditya",
+        "email": "aditya@gmail.com",
+        "phone": "09737344827",
+        "location": "mars",
+        "summary": "nothing but full stack"
+      },
+      "experience": [],
+      "education": [],
+      "skills": [
+        "gaming"
+      ],
+      "id": "9fcda52f-ddb9-4451-bfb1-7410fae2c14d",
+      "createdAt": "2025-12-01T11:11:39.751Z",
+      "updatedAt": "2025-12-01T11:11:39.751Z"
+    },
+    {
+      "personalInfo": {
+        "fullName": "sunny",
+        "email": "suns@gmail.com",
+        "phone": "0895482799",
+        "location": "vijayawada",
+        "summary": "."
+      },
+      "experience": [],
+      "education": [],
+      "skills": [
+        "smaash karts player"
+      ],
+      "id": "5e6d48cd-e98a-4fe3-be29-5ed5b9112fe4",
+      "createdAt": "2025-12-01T11:13:29.455Z",
+      "updatedAt": "2025-12-01T11:13:29.455Z"
+    },
+    {
+      "personalInfo": {
+        "fullName": "Taneesh Venkat",
+        "email": "taneeshvenkat@gmail.com",
+        "phone": "09704482799",
+        "location": "ngn",
+        "summary": "dhd",
+        "photo": "https://www.google.com/photos/works-with/"
+      },
+      "experience": [],
+      "education": [],
+      "skills": [
+        "hdt"
+      ],
+      "id": "e3b1e6ec-b051-4229-a77e-35bdaaf9acc1",
+      "createdAt": "2025-12-01T12:07:56.778Z",
+      "updatedAt": "2025-12-01T12:07:56.778Z"
+    }
+  ]
+}
